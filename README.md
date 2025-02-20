@@ -16,7 +16,7 @@ I'm a passionate software engineer with 1.5 years of experience in the software 
 
 ## Connect with Me
 
-- [LinkedIn]
+- [LinkedIn: https://www.linkedin.com/in/ayush-shukla-17ba3618b/]
 - [Twitter]
 - [Personal Website or Blog]
 
