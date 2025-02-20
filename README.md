@@ -22,6 +22,4 @@ I'm a passionate software engineer with 1.5 years of experience in the software 
 
 ## GitHub Stats
 
-![Your GitHub Stats]
-
 Feel free to reach out to me for any collaborations or just to have a tech chat! 😊
